@@ -1,1 +1,1 @@
-# Microprocessor-Bimodal-Branch-Predictor-Simulator
+# Microprocessor-Branch-Predictor-Simulator
